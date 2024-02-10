@@ -1,4 +1,4 @@
-package ch.anegrini.creational;
+package ch.anegrini.creational.singleton;
 
 public class NaiveSingleton {
 
